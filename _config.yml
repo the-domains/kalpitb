@@ -1,7 +1,7 @@
 name: KalpitB
 favicon: null
-layout_spectrum: 0.7524840207770467
-typography_spectrum: 0.3152885693125427
+layout_spectrum: 0.8647275392431766
+typography_spectrum: 0.9276916284579784
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6531257391907275
-  lightness: 0.8754598328378052
-  saturation: 0.683156069368124
-  rhythmicContrast: 0.4577983629424125
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.46331945550628006
+  lightness: 0.8764469497837126
+  saturation: 0.23836593888700008
+  rhythmicContrast: 0.8276479281485081
 purpose: []
